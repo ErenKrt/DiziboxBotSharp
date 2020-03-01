@@ -11,7 +11,7 @@ Botun çalışma prensibi bir kullanıcı gibi  **dizibox.pw** adresine girerek 
 # Bilgilendirme
 > .NetCore >= 3.1
 
-Sürümü kaynak kodlarını indirtikten sonra build ederek değişebilirsiniz.
+Sürümü kaynak kodlarını indirdikten sonra build ederek değişebilirsiniz.
 # Kurulum
 > Release kısmından güncel **dll**leri indirip projenize ekleyerek kullanabilirsiniz.
 ## Kod Kullanımları
