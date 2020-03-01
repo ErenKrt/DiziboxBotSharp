@@ -13,7 +13,7 @@ Botun çalışma prensibi bir kullanıcı gibi  **dizibox.pw** adresine girerek 
 
 Sürümü kaynak kodlarını indirdikten sonra build ederek değişebilirsiniz.
 # Kurulum
-> Release kısmından güncel **dll**leri indirip projenize ekleyerek kullanabilirsiniz.
+> [Release](https://github.com/ErenKrt/DiziboxBotSharp/releases) kısmından güncel **dll**leri indirip projenize ekleyerek kullanabilirsiniz.
 ## Kod Kullanımları
 ```csharp
 DbxCore Core = new DbxCore();
