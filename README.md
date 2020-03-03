@@ -1,4 +1,4 @@
-# DiziboxBotSharp / DiziBox Bot / Yabancı Dizi Botu | .Net
+# DiziboxBotSharp / DiziBox Bot / Yabancı Dizi Botu | .Net | C#
 
 Botun çalışma prensibi bir kullanıcı gibi  **dizibox.pw** adresine girerek **HtmlParser** mantığında alanları (**div**/**section**/**vb..**) parçalıyor ve size özel **object**ler olarak döndürüyor
 
